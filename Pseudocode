@@ -1,0 +1,9 @@
+Start
+Gehe durch die Liste von links nach rechts, beginne mit der ersten Zahl:
+a . Setze die aktuelle Zahl als Schlüssel
+b. Vergleiche sie mit den vorherigen Zahlen:
+i. Verschiebe die größeren Zahlen nach rechts
+c. Füge die Schlüsselzahl an die richtige stelle ein
+Wiederhole bis das Ende der Liste erreicht ist
+Die Stelle ist nun sortiert
+Ende
