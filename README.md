@@ -1,2 +1,2 @@
 # TestRepo
-Das ist nur ein Test
+This repo is for testing purposes.
